@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ServerRunner">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServerRunner</output-path>
+    <root id="archive" name="ServerRunner.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="LiavontsiBrechka_COMP303_Assignment1" />
+    </root>
+  </artifact>
+</component>
